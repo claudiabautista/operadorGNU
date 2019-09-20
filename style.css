@@ -1,0 +1,37 @@
+nav.navbar.navbar-expand-md.bg-light.fixed-top{
+  border-bottom: 2px solid  #00AFF0;
+}
+.navbar-light .navbar-brand{
+  color: #00AFF0;
+}
+.titleClass{
+  color: #005D81;
+}
+.icon{
+  color: #005D81;
+}
+button.btn.btn-outline-info.orange{
+  color: #FF8500;
+  border-color: #FF8500;
+}
+button.btn.btn-outline-info.orange:hover {
+    color: #fff;
+    background-color: #FF8500;
+    border-color: #FF8500;
+  }
+a.btn.btn-orange{
+  background-color: #FF8500;
+  color: #fff;
+}
+a.btn.btn-orange:hover{
+  background-color: #fff;
+  color: #FF8500;
+  border-color: #FF8500;
+}
+.footer{
+
+  background-color: #00AFF0;
+  color: #fff;
+  height: 150px;
+
+}
