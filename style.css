@@ -28,6 +28,20 @@ a.btn.btn-orange:hover{
   color: #FF8500;
   border-color: #FF8500;
 }
+
+
+
+div.avatar {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.avatar img {
+  width: 100%;
+  height: auto;
+}
 .footer{
 
   background-color: #00AFF0;
